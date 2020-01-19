@@ -2,4 +2,4 @@
 
 ## Online Storage Trasfer
 
-![STORK v1.0](URL)
+![STORK v1.0](https://github.com/alectramell/stork/raw/master/stork.png)
